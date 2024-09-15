@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "517429811328",
+    "project_id": "goaraa-350af",
+    "storage_bucket": "goaraa-350af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517429811328:android:004aff26a8c0beaa502e65",
+        "android_client_info": {
+          "package_name": "com.example.goaraa_app_eg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwpL0hOoirCqxQKDlIkvBTVbwHLhsYx_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
